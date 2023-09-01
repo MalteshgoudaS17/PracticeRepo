@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-09T18:44:06 IST" name="Suite" finished-at="2023-08-09T18:47:56 IST" duration-ms="229907">
+    <groups>
+    </groups>
+    <test started-at="2023-08-09T18:44:06 IST" name="Test" finished-at="2023-08-09T18:47:56 IST" duration-ms="229907">
+      <class name="testcases.TestOrangeHRM">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.TestOrangeHRM@2def7a7a]" started-at="2023-08-09T18:44:06 IST" name="setUp" finished-at="2023-08-09T18:44:20 IST" duration-ms="13742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="launchOrangeHRMWebsite()[pri:1, instance:testcases.TestOrangeHRM@2def7a7a]" started-at="2023-08-09T18:44:20 IST" name="launchOrangeHRMWebsite" finished-at="2023-08-09T18:44:31 IST" duration-ms="10920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchOrangeHRMWebsite -->
+        <test-method signature="addEmployee()[pri:2, instance:testcases.TestOrangeHRM@2def7a7a]" started-at="2023-08-09T18:44:31 IST" name="addEmployee" finished-at="2023-08-09T18:47:42 IST" duration-ms="191541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method signature="logoutfromOrangeHRMWebsite()[pri:2, instance:testcases.TestOrangeHRM@2def7a7a]" started-at="2023-08-09T18:47:42 IST" name="logoutfromOrangeHRMWebsite" finished-at="2023-08-09T18:47:54 IST" duration-ms="12197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutfromOrangeHRMWebsite -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TestOrangeHRM@2def7a7a]" started-at="2023-08-09T18:47:54 IST" name="tearDown" finished-at="2023-08-09T18:47:56 IST" duration-ms="1271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TestOrangeHRM -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
